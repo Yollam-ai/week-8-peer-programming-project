@@ -1,5 +1,6 @@
 # week-8-peer-programming-project
 We were asked to do the following tasks:
+
 Step 1: Create a DataFrame from the list of dictionaries below:
 
 [{'product_id':23, 'name':'computer', 'wholesale_price': 500, 'retail_price':1000, 'sales':100}, 
